@@ -1,0 +1,5 @@
+POST http://localhost:3000/api/dispositivos
+Content-Type: application/json
+
+{"placa":"ABC1234","volume":50}
+
